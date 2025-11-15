@@ -34,3 +34,25 @@ The scenario-based approach aims to:
 ## Citation
 
 If you use this in research:
+Sisodia, A. (2024). Scenario-Based Mental Health Screening.
+GitHub: https://github.com/aayush1893/mbot
+Related paper:
+
+## Validated Instruments
+
+Original instruments:
+- PHQ-9: Kroenke et al. (2001). J Gen Intern Med, 16(9):606-613
+- GAD-7: Spitzer et al. (2006). Arch Intern Med, 166(10):1092-1097
+
+## License
+
+MIT License
+
+## Author
+
+Aayush Sisodia, MSHI, BDS  
+Business Analytics Advisor, Cigna/Evernorth Health Services
+
+## Disclaimer
+
+This tool is for research purposes only. For clinical screening, use the standard validated PHQ-9 and GAD-7 instruments.
